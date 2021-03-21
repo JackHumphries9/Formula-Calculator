@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">Formula Calculator</h3>
   <p align="center">
-    A Simple Calculator for doing certain physics formulas
+    A simple calculator for doing certain physics formulas
   </p>
 </p>
 
